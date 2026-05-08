@@ -1,0 +1,19 @@
+// Export all screens
+export 'auth/login_screen.dart';
+export 'auth/register_screen.dart';
+export 'auth/forgot_password_screen.dart';
+export 'home_screen.dart';
+export 'medications_screen.dart';
+export 'add_medication_screen.dart';
+export 'scan_prescription_screen.dart';
+export 'scan_barcode_screen.dart';
+export 'analyze_image_screen.dart';
+export 'vital_signs_screen.dart';
+export 'add_vital_screen.dart';
+export 'consultations_screen.dart';
+export 'add_consultation_screen.dart';
+export 'prepare_consultation_screen.dart';
+export 'settings_screen.dart';
+export 'history_screen.dart';
+export 'prescriptions_screen.dart';
+export 'profile_screen.dart';
